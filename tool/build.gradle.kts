@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.thelightphone.gemini"
+    namespace = "gemini_on_light"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.thelightphone.gemini"
+        applicationId = "gemini_on_light"
         minSdk = 34
         targetSdk = 34
         versionCode = 1
