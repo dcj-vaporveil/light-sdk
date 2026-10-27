@@ -4,4 +4,4 @@ package = "com.thelightphone.gemini"
 description = "A quiet, voice-first knowledge companion powered by Gemini with BYOK DataStore storage."
 version = "1.0.0"
 author = "Light Community"
-capabilities = ["network", "detached-audio"]
+capabilities = ["network"]
