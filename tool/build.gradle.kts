@@ -9,7 +9,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "gemini_on_light"
+        applicationId = "com.thelightphone.gemini"
         minSdk = 34
         targetSdk = 34
         versionCode = 1
